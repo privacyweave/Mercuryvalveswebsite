@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a2348;
+  --foreground: hsl(20, 14.3%, 4.1%);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(20, 14.3%, 4.1%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(20, 14.3%, 4.1%);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(60, 4.8%, 95.9%);
+  --secondary-foreground: hsl(24, 9.8%, 10%);
+  --accent: hsl(60, 4.8%, 95.9%);
+  --accent-foreground: hsl(24, 9.8%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(20, 14.3%, 4.1%);
+  --radius: 0.5rem;
+  
+  /* Mercury Valves Custom Colors */
+  --mercury-blue: hsl(225, 75%, 45%);
+  --mercury-light-blue: hsl(217, 91%, 60%);
+  --mercury-orange: hsl(45, 93%, 47%);
+  --mercury-gray: hsl(215, 28%, 39%);
+  --mercury-dark: hsl(220, 26%, 14%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .mercury-blue {
+    color: var(--mercury-blue);
+  }
+  
+  .mercury-light-blue {
+    color: var(--mercury-light-blue);
+  }
+  
+  .mercury-orange {
+    color: var(--mercury-orange);
+  }
+  
+  .mercury-gray {
+    color: var(--mercury-gray);
+  }
+  
+  .mercury-dark {
+    color: var(--mercury-dark);
+  }
+  
+  .bg-mercury-blue {
+    background-color: var(--mercury-blue);
+  }
+  
+  .bg-mercury-light-blue {
+    background-color: var(--mercury-light-blue);
+  }
+  
+  .bg-mercury-orange {
+    background-color: var(--mercury-orange);
+  }
+  
+  .bg-mercury-gray {
+    background-color: var(--mercury-gray);
+  }
+  
+  .bg-mercury-dark {
+    background-color: var(--mercury-dark);
+  }
+  
+  .text-mercury-blue {
+    color: var(--mercury-blue);
+  }
+  
+  .text-mercury-light-blue {
+    color: var(--mercury-light-blue);
+  }
+  
+  .text-mercury-orange {
+    color: var(--mercury-orange);
+  }
+  
+  .text-mercury-gray {
+    color: var(--mercury-gray);
+  }
+  
+  .text-mercury-dark {
+    color: var(--mercury-dark);
+  }
+  
+  .hover\:bg-mercury-blue:hover {
+    background-color: var(--mercury-blue);
+  }
+  
+  .hover\:text-mercury-blue:hover {
+    color: var(--mercury-blue);
+  }
+  
+  .hover\:text-mercury-orange:hover {
+    color: var(--mercury-orange);
+  }
+  
+  .border-mercury-blue {
+    border-color: var(--mercury-blue);
+  }
+  
+  .from-mercury-blue {
+    --tw-gradient-from: var(--mercury-blue);
+  }
+  
+  .to-mercury-light-blue {
+    --tw-gradient-to: var(--mercury-light-blue);
+  }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:hover,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:focus,
+textarea:-webkit-autofill:hover {
+  -webkit-box-shadow: 0 0 0 1000px #0a2348 inset !important;
+  box-shadow: 0 0 0 1000px #0a2348 inset !important;
+  -webkit-text-fill-color: #fff !important;
+  color: #fff !important;
+  caret-color: #fff !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
