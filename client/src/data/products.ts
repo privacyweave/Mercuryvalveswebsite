@@ -225,7 +225,7 @@ export const productsData: Product[] = [
     description: "Butterfly valve with wafer design for DI/CI applications featuring cast iron, ductile iron construction",
     category: "Butterfly Valve",
     subcategory: "Wafer (DI/CI)",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Butterfly-valve-wafer-Product.png",
+    image: "/Images/DI CI VALVES/Butter fly valve/wafer valve/Butterfly-valve-wafer-Product.png",
     slug: "wafer-di-ci",
     featured: true
   },
@@ -235,7 +235,7 @@ export const productsData: Product[] = [
     description: "Concentric flanged butterfly valve for industrial applications",
     category: "Butterfly Valve",
     subcategory: "Concentric Flanged", 
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Butterfly-valve-concentric-flanged-product.png",
+    image: "/Images/DI CI VALVES/Butter fly valve/Concentric Fanged/Butterfly-valve-concentric-flanged-product.png",
     slug: "concentric-flanged"
   },
   {
@@ -244,7 +244,7 @@ export const productsData: Product[] = [
     description: "Double eccentric flanged butterfly valve for high-performance applications",
     category: "Butterfly Valve",
     subcategory: "Double Eccentric Flanged",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Butterfly-valve-double-eccentric-flanged-product.png",
+    image: "/Images/DI CI VALVES/Butter fly valve/double ecentric flanged/Butterfly-valve-double-eccentric-flanged-product.png",
     slug: "double-eccentric-flanged"
   },
 
@@ -255,7 +255,7 @@ export const productsData: Product[] = [
     description: "Single chamber flanged air valve for water systems",
     category: "Air Valve",
     subcategory: "Single Chamber Flanged",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Air-valve-Single-chamber-flanged-product.png",
+    image: "/Images/DI CI VALVES/Air Valve/single air valve/Air-valve-Single-chamber-flanged-product.png",
     slug: "single-chamber-flanged"
   },
   {
@@ -264,7 +264,7 @@ export const productsData: Product[] = [
     description: "Single chamber screwed air valve for small diameter pipes",
     category: "Air Valve",
     subcategory: "Single Chamber Screwed",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Air-valve-single-chamber-screwed-product.png",
+    image: "/Images/DI CI VALVES/Air Valve/Single chamber screwed/Air-valve-single-chamber-screwed-product.png",
     slug: "single-chamber-screwed"
   },
   {
@@ -273,7 +273,7 @@ export const productsData: Product[] = [
     description: "Single chamber ball type air valve",
     category: "Air Valve",
     subcategory: "Single Chamber Ball Type",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Air-valve-Single-chamber-ball-type-product.png",
+    image: "/Images/DI CI VALVES/Air Valve/single chamber ball type/Air-valve-Single-chamber-ball-type-product.png",
     slug: "single-chamber-ball-type"
   },
   {
@@ -282,7 +282,7 @@ export const productsData: Product[] = [
     description: "Double chamber air valve for enhanced performance",
     category: "Air Valve",
     subcategory: "Double Chamber",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/product-8.png",
+    image: "/Images/DI CI VALVES/Air Valve/double chamber/product-8.png",
     slug: "double-chamber"
   },
   {
@@ -291,7 +291,7 @@ export const productsData: Product[] = [
     description: "H40 isolating air valve",
     category: "Air Valve",
     subcategory: "H40 Isolating",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/product.png",
+    image: "/Images/DI CI VALVES/Air Valve/H40 ISOLATING/product.png",
     slug: "h40-isolating"
   },
   {
@@ -300,7 +300,7 @@ export const productsData: Product[] = [
     description: "Double kinetic air valve for dynamic applications",
     category: "Air Valve",
     subcategory: "Double Kinetic",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/air-valve-double-kinetic-product.png",
+    image: "/Images/DI CI VALVES/Air Valve/DOUBLE KINETIC/air-valve-double-kinetic-product.png",
     slug: "double-kinetic"
   },
 
@@ -311,7 +311,7 @@ export const productsData: Product[] = [
     description: "Ball type flanged foot valve for suction lines",
     category: "Foot Valve",
     subcategory: "Ball Type Flanged",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/air_valve-foot_valve-product-removebg-preview.png",
+    image: "/Images/DI CI VALVES/FOOT VALVE/BALL TYPE FLANGED/air_valve-foot_valve-product-removebg-preview.png",
     slug: "ball-type-flanged"
   },
   {
@@ -320,7 +320,7 @@ export const productsData: Product[] = [
     description: "Ball type screwed foot valve for small installations",
     category: "Foot Valve",
     subcategory: "Ball Type Screwed",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/foot-valve-ball-type-screwd-product.png",
+    image: "/Images/DI CI VALVES/FOOT VALVE/FOOT VALVE SCREW/foot-valve-ball-type-screwd-product.png",
     slug: "ball-type-screwed"
   },
 
@@ -331,7 +331,7 @@ export const productsData: Product[] = [
     description: "Y type flanged and screwed strainer valve for filtration",
     category: "Strainer Valve",
     subcategory: "Y Type Flanged & Screwed",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/strainer-y-type-flanged-product.png",
+    image: "/Images/DI CI VALVES/STRAINER/Y TYPE/strainer-y-type-flanged-product.png",
     slug: "y-type-flanged"
   },
   {
@@ -340,7 +340,7 @@ export const productsData: Product[] = [
     description: "Basket type strainer valve for debris removal",
     category: "Strainer Valve",
     subcategory: "Basket Type",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/strainer-basket-type-product.png",
+    image: "/Images/DI CI VALVES/STRAINER/BASKET TYPE/strainer-basket-type-product.png",
     slug: "basket-type"
   },
 
@@ -350,7 +350,7 @@ export const productsData: Product[] = [
     name: "HDPE Pipes & Fittings",
     description: "High-density polyethylene pipes conforming to IS 4984 for water supply and irrigation",
     category: "HDPE Pipes & Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/hdpe-pipes1.png",
+    image: "/Images/HDPE-Pipe-Fittings-hdpe-fitting-group.jpg",
     slug: "hdpe-pipes-fittings",
     featured: true
   },
@@ -361,7 +361,7 @@ export const productsData: Product[] = [
     name: "Galvanized Iron Pipes & Fittings",
     description: "Corrosion-resistant galvanized iron pipes for water distribution",
     category: "Galvanized Iron Pipes & Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/gi-pipe-fitting.png",
+    image: "/Images/GI PIPE AND FITTINGS/pipe-768x759.png",
     slug: "galvanized-iron-pipes-fittings"
   },
 
@@ -373,7 +373,7 @@ export const productsData: Product[] = [
     name: "House Service Connection",
     description: "Complete house service connection solutions for water supply",
     category: "House Service Connection",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/image.psd13.png",
+    image: "/Images/HSC CONNECTION/House-service-connections-elbow-90°-product.png",
     slug: "house-service-connection",
     featured: true
   },
@@ -384,7 +384,7 @@ export const productsData: Product[] = [
     name: "Manhole Cover",
     description: "Durable manhole covers for municipal and industrial use",
     category: "Manhole Cover",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/image.psd14.png",
+    image: "/Images/MANHOLE COVER/manhole-cover-square-product.png",
     slug: "manhole-cover",
     featured: true
   },
@@ -395,7 +395,7 @@ export const productsData: Product[] = [
     name: "Ductile Iron Grating",
     description: "High-quality ductile iron gratings for drainage and industrial applications",
     category: "Ductile Iron Grating",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/image.psd15.png",
+    image: "/Images/DI GRATING/ductile-iron-grating-product.png",
     slug: "ductile-iron-grating",
     featured: true
   },
@@ -408,7 +408,7 @@ export const productsData: Product[] = [
     name: "UPVC Agriculture Pipes / Fittings",
     description: "Specialized UPVC pipes and fittings for agricultural irrigation systems",
     category: "UPVC Agriculture Pipes / Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/pvc1.png",
+    image: "/Images/upvc-agriculture-pipes-and-fittings-group-1024x683.jpg",
     slug: "upvc-agriculture-pipes-fittings",
     featured: true
   },
@@ -421,7 +421,7 @@ export const productsData: Product[] = [
     description: "Double chamber screwed air valve",
     category: "Air Valve",
     subcategory: "Double Chamber Screwed",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Butterfly-valve-wafer-Product.png",
+    image: "/Images/DI CI VALVES/Air Valve/double chamber/product-8.png",
     slug: "double-chamber-screwed"
   },
   // Foot Valve Category
@@ -431,14 +431,7 @@ export const productsData: Product[] = [
   // Control Valves
 
 
-  {
-    id: 92,
-    name: "M.S Pipes & Fittings",
-    description: "Mild steel pipes for structural applications",
-    category: "M.S Pipes & Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/06/ms-steel.png",
-    slug: "ms-pipes-fittings"
-  },
+  
 
 
 
@@ -452,7 +445,7 @@ export const productsData: Product[] = [
     description: "Gun metal ball valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "Gun Metal Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/gun-metal-valve-gun-metal-ball-valve-product.png",
+    image: "/Images/GM AND SS VALVES/GUN METAL VALVE/GM BALL VALVE/gun-metal-valve-gun-metal-ball-valve-product.png",
     slug: "gm-ball-valve",
     featured: true
   },
@@ -462,7 +455,7 @@ export const productsData: Product[] = [
     description: "Gun metal gate valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "Gun Metal Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-gun-metal-gate-valve-product-3.png",
+    image: "/Images/GM AND SS VALVES/GUN METAL VALVE/GM GATE VALVE/gun-metal-valve-gun-metal-gate-valve-product-3.png",
     slug: "gm-gate-valve"
   },
   {
@@ -471,7 +464,7 @@ export const productsData: Product[] = [
     description: "Gun metal globe valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "Gun Metal Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-gun-metal-globe-valve-product-2.png",
+    image: "/Images/GM AND SS VALVES/GUN METAL VALVE/GM GLOBE VALVEW/gun-metal-valve-gun-metal-globe-valve-product-2.png",
     slug: "gm-globe-valve"
   },
   {
@@ -480,7 +473,7 @@ export const productsData: Product[] = [
     description: "Gun metal pressure reducing check valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "Gun Metal Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/image-2.png",
+    image: "/Images/GM AND SS VALVES/GUN METAL VALVE/PRESSURE REDUCING CHECK VALVE/image-2.png",
     slug: "pressure-reducing-check-valve-gm"
   },
   {
@@ -489,7 +482,7 @@ export const productsData: Product[] = [
     description: "Gun metal horizontal check valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "Gun Metal Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-horizontal-check-valve-product.png",
+    image: "/Images/GM AND SS VALVES/GUN METAL VALVE/HORIZONTAL CHECK VALVE/gun-metal-valve-horizontal-check-valve-product.png",
     slug: "horizontal-check-valve-gm"
   },
   {
@@ -498,7 +491,7 @@ export const productsData: Product[] = [
     description: "Gun metal vertical check valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "Gun Metal Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/image-3.png",
+    image: "/Images/GM AND SS VALVES/GUN METAL VALVE/VERTICAL CHECK VALVE/image-3.png",
     slug: "vertical-check-valve-gm"
   },
   {
@@ -507,7 +500,7 @@ export const productsData: Product[] = [
     description: "Stainless steel ball valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "SS Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/stainless-steel-valve-stainless-steel-ball-valve-product.png",
+    image: "/Images/GM AND SS VALVES/SS VALVE/SS BALL VALVE/stainless-steel-valve-stainless-steel-ball-valve-product.png",
     slug: "ss-ball-valve"
   },
   {
@@ -516,7 +509,7 @@ export const productsData: Product[] = [
     description: "Chrome plated ball valve for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "SS Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/stainless-steel-valve-stainless-steel-cp-ball-valve-product-1.png",
+    image: "/Images/GM AND SS VALVES/SS VALVE/CP BALL VALVE/stainless-steel-valve-stainless-steel-cp-ball-valve-product-1.png",
     slug: "cp-ball-valve"
   },
   {
@@ -525,7 +518,7 @@ export const productsData: Product[] = [
     description: "Cast iron ball valve screwed type for home applications with size range 15mm to 100mm",
     category: "Gun Metal Valves & SS Valves",
     subcategory: "SS Valves",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/stainless-steel-valve-cast-iron-ball-valve-screwed-product-1.png",
+    image: "/Images/GM AND SS VALVES/SS VALVE/CI BALL VALVE SCREWED/stainless-steel-valve-cast-iron-ball-valve-screwed-product-1.png",
     slug: "cast-iron-ball-valve-screwed"
   },
 
@@ -536,7 +529,7 @@ export const productsData: Product[] = [
     description: "Ductile iron pipe socket with superior mechanical properties including 420 MPa minimum tensile strength and 10% minimum elongation at break",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Socket",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/ductile-iron-pipe-socket-product.png",
+    image: "/Images/DI CI Pipes And fittings/DI socket pipe/ductile-iron-pipe-socket-product.png",
     slug: "socket",
     featured: true
   },
@@ -546,7 +539,7 @@ export const productsData: Product[] = [
     description: "Ductile iron double flange pipe suitable for vertical pipelines, overhead tanks and elevated service reservoirs with flanged connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Double Flange Pipe",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/ductile-iron-pipe-double-flange-product-1.png",
+    image: "/Images/DI CI Pipes And fittings/Double Flange Pipe/Double Flange pipe.png",
     slug: "double-flange-pipe",
     featured: true
   },
@@ -556,7 +549,7 @@ export const productsData: Product[] = [
     description: "Cast iron double flange pipes manufactured as per IS 7181 Class B standards with cast iron pipe and flange construction",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Cast Iron Double Flange Pipes",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/ductile-iron-pipe-cast-iron-double-flange-pipes-product.png",
+    image: "/Images/DI CI Pipes And fittings/Cast Iron Double flange pipe/cast Iron Double flange pipe.png",
     slug: "cast-iron-double-flange-pipes"
   },
   {
@@ -565,7 +558,7 @@ export const productsData: Product[] = [
     description: "Specialized ductile iron puddle wall casting pipes designed for water containment and infrastructure applications",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Puddle Wall Casting",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/ductile-iron-pipe-puddle-wall-casting-pipe-product.png",
+    image: "/Images/DI CI Pipes And fittings/Puddle flange pipe/Puddle Flange Pipe.png",
     slug: "puddle-wall-casting"
   },
   {
@@ -574,7 +567,7 @@ export const productsData: Product[] = [
     description: "Ductile iron slotted pipe designed for drainage and filtration applications with precision-engineered slots",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Slotted Pipe",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/ductile-iron-pipe-slotted-pipe-product.png",
+    image: "/Images/DI CI Pipes And fittings/Slotted pipe/slotted pipe.png",
     slug: "slotted-pipe"
   },
   {
@@ -583,7 +576,7 @@ export const productsData: Product[] = [
     description: "Cast iron earth pipe made from gray cast iron, historically used for water transmission and sewage systems. Ideal for earthing applications with low resistivity and high conductivity",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Cast Iron Pipe",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/cast-iron-pipe-product.png",
+    image: "/Images/DI CI Pipes And fittings/Cast Iron Pipe/cast Iron pipe.png",
     slug: "cast-iron-pipe"
   },
   {
@@ -592,7 +585,7 @@ export const productsData: Product[] = [
     description: "DI/CI double socket bend 90° fitting for pipe direction changes with secure socket connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fiitings-double-socket-bend-90%C2%B0-product-5.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Double Socket Bend/DS bend 90.png",
     slug: "double-socket-bend-90",
     featured: true
   },
@@ -602,7 +595,7 @@ export const productsData: Product[] = [
     description: "DI/CI double socket bend 45° fitting for gradual pipe direction changes",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fiitings-double-socket-bend-45%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Double Socket Bend/di-ci-fiitings-double-socket-bend-45°-product.png",
     slug: "double-socket-bend-45"
   },
   {
@@ -611,7 +604,7 @@ export const productsData: Product[] = [
     description: "DI/CI double socket bend 22.5° fitting for minor pipe direction adjustments",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-double-socket-bend-22.5%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Double Socket Bend/di-ci-fittings-double-socket-bend-22.5°-product.png",
     slug: "double-socket-bend-22-5"
   },
   {
@@ -620,7 +613,7 @@ export const productsData: Product[] = [
     description: "DI/CI double socket bend 11.25° fitting for precise pipe alignment",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-double-socket-bend-11.25%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Double Socket Bend/di-ci-fittings-double-socket-bend-11.25°-product.png",
     slug: "double-socket-bend-11-25"
   },
   {
@@ -629,7 +622,7 @@ export const productsData: Product[] = [
     description: "DI/CI double socket duck foot bend 90° for specialized pipeline connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-double-socket-duck-foot-bend-90%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Duck Foot Bend/di-ci-fittings-double-socket-duck-foot-bend-90°-product.png",
     slug: "double-socket-duck-foot-bend-90"
   },
   {
@@ -638,7 +631,7 @@ export const productsData: Product[] = [
     description: "DI/CI double socket concentric tapers reducer for pipe size transitions",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-socket-concentric-tapers-reducer-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Tapper/di-ci-fitings-double-socket-concentric-tapers-reducer-product.png",
     slug: "double-socket-concentric-tapers-reducer"
   },
   {
@@ -647,7 +640,7 @@ export const productsData: Product[] = [
     description: "DI/CI flanged spigot tail piece for flange to socket connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-flanged-spigot-tail-piece-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Tail Piece/di-ci-fitings-flanged-spigot-tail-piece-product.png",
     slug: "flanged-spigot-tail-piece"
   },
   {
@@ -656,7 +649,7 @@ export const productsData: Product[] = [
     description: "DI/CI flanged socket tail piece for socket to flange connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-flanged-socket-tail-piece-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Tail Piece/di-ci-fitings-flanged-socket-tail-piece-product.png",
     slug: "flanged-socket-tail-piece"
   },
   {
@@ -665,7 +658,7 @@ export const productsData: Product[] = [
     description: "DI/CI double flange bend 90° for flanged pipeline direction changes",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-flange-bend-90%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/DI CI Double flange bend/di-ci-fitings-double-flange-bend-90°-product.png",
     slug: "double-flange-bend-90"
   },
   {
@@ -674,7 +667,7 @@ export const productsData: Product[] = [
     description: "DI/CI double flange bend 45° for flanged pipeline direction changes",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-flange-bend-45%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/DI CI Double flange bend/di-ci-fitings-double-flange-bend-45°-product.png",
     slug: "double-flange-bend-45"
   },
   {
@@ -683,7 +676,7 @@ export const productsData: Product[] = [
     description: "DI/CI double flange bend 22.5° for flanged pipeline direction changes",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-flange-bend-22.5%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/DI CI Double flange bend/di-ci-fitings-double-flange-bend-22.5°-product.png",
     slug: "double-flange-bend-22-5"
   },
   {
@@ -692,7 +685,7 @@ export const productsData: Product[] = [
     description: "DI/CI double flange bend 11.25° for precise flanged pipeline alignment",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-flange-bend-11.25%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/DI CI Double flange bend/di-ci-fitings-double-flange-bend-11.25°-product.png",
     slug: "double-flange-bend-11-25"
   },
   {
@@ -701,7 +694,7 @@ export const productsData: Product[] = [
     description: "DI/CI blank flange for pipeline termination and maintenance access",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-blank-flange-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Blank flange/di-ci-fitings-blank-flange-product.png",
     slug: "blank-flange"
   },
   {
@@ -710,7 +703,7 @@ export const productsData: Product[] = [
     description: "DI/CI double flange duck foot bend 90° for specialized flanged connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-flange-ducj-foot-bend-90%C2%B0-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Duck Foot Bend/di-ci-fitings-double-flange-ducj-foot-bend-90°-product.png",
     slug: "double-flange-duck-foot-bend-90"
   },
   {
@@ -719,7 +712,7 @@ export const productsData: Product[] = [
     description: "DI/CI double flange concentric tapers reducer for flanged pipe size transitions",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-double-flange-concentric-tapers-reducer-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Tapper/di-ci-fitings-double-flange-concentric-tapers-reducer-product.png",
     slug: "double-flange-concentric-tapers-reducer"
   },
   {
@@ -728,7 +721,7 @@ export const productsData: Product[] = [
     description: "DI/CI all socket tees for three-way socket pipe connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-all-socket-tees-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/All Socket Tee/di-ci-fitings-all-socket-tees-product.png",
     slug: "all-socket-tees"
   },
   {
@@ -737,7 +730,7 @@ export const productsData: Product[] = [
     description: "DI/CI flange on double socket tees for mixed connection types",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fitings-flange-on-double-socket-tees-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Double Socket Tee/di-ci-fitings-flange-on-double-socket-tees-product.png",
     slug: "flange-on-double-socket-tees"
   },
   {
@@ -746,7 +739,7 @@ export const productsData: Product[] = [
     description: "DI/CI all flanges tees for three-way flanged pipe connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-all-flanges-tees-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/All Flange Tee/di-ci-fittings-all-flanges-tees-product.png",
     slug: "all-flanges-tees"
   },
   {
@@ -755,7 +748,7 @@ export const productsData: Product[] = [
     description: "DI/CI collars for pipe joint reinforcement and connection",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-collars-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Collars/di-ci-fittings-mjcollars-product.png",
     slug: "collars"
   },
   {
@@ -764,7 +757,7 @@ export const productsData: Product[] = [
     description: "DI/CI mechanical joint collars for secure pipe connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-mjcollars-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Collars/di-ci-fittings-collars-product.png",
     slug: "mj-collars"
   },
   {
@@ -773,7 +766,7 @@ export const productsData: Product[] = [
     description: "DI/CI bell mouth fitting for smooth water flow transitions",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-bell-mouth-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Bell Mouth/di-ci-fittings-bell-mouth-product.png",
     slug: "bell-mouth"
   },
   {
@@ -782,7 +775,7 @@ export const productsData: Product[] = [
     description: "DI/CI dismantling joint for easy pipe maintenance and removal",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-dismantling-joint-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Dismantling Joint/di-ci-fittings-dismantling-joint-product.png",
     slug: "dismantling-joint"
   },
   {
@@ -791,7 +784,7 @@ export const productsData: Product[] = [
     description: "DI/CI all socket cross for four-way socket pipe connections",
     category: "DI, CI Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/di-ci-fittings-all-socket-cross-product.png",
+    image: "/Images/DI CI Pipes And fittings/Fittings/Cross Product/di-ci-fittings-all-socket-cross-product.png",
     slug: "all-socket-cross"
   },
 
@@ -802,7 +795,7 @@ export const productsData: Product[] = [
     description: "Mild steel square pipes for construction and industrial applications",
     category: "M.S Pipes & Fittings",
     subcategory: "Square",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/mild-steel-pipe-square-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-square-product.png",
     slug: "ms-square",
     featured: true
   },
@@ -812,7 +805,7 @@ export const productsData: Product[] = [
     description: "Round mild steel and galvanized iron pipes for diverse applications",
     category: "M.S Pipes & Fittings",
     subcategory: "Round",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/01/mild-steel-pipe-round-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-round-product.png",
     slug: "ms-round"
   },
   {
@@ -821,7 +814,7 @@ export const productsData: Product[] = [
     description: "Rectangular mild steel pipes for structural and construction use",
     category: "M.S Pipes & Fittings",
     subcategory: "Rectangle",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/mild-steel-pipe-rectangle-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-rectangle-product.png",
     slug: "ms-rectangle"
   },
   {
@@ -830,7 +823,7 @@ export const productsData: Product[] = [
     description: "Round steel bars for manufacturing and construction reinforcement",
     category: "M.S Pipes & Fittings",
     subcategory: "Round Bar",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/mild-steel-pipe-round-bar-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-round-bar-product.png",
     slug: "ms-round-bar"
   },
   {
@@ -839,7 +832,7 @@ export const productsData: Product[] = [
     description: "Thermo-mechanically treated bars for earthquake-resistant construction",
     category: "M.S Pipes & Fittings",
     subcategory: "TMT Bar",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/mild-steel-pipe-tmt-bar-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-tmt-bar-product.png",
     slug: "ms-tmt-bar"
   },
   {
@@ -848,7 +841,7 @@ export const productsData: Product[] = [
     description: "Flat steel bars for fabrication and construction applications",
     category: "M.S Pipes & Fittings",
     subcategory: "Flat Bar",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/mild-steel-pipe-flat-bar-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-flat-bar-product.png",
     slug: "ms-flat-bar"
   },
   {
@@ -857,7 +850,7 @@ export const productsData: Product[] = [
     description: "Steel angle bars for structural support and corner reinforcement",
     category: "M.S Pipes & Fittings",
     subcategory: "Angle",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/mild-steel-pipe-angle-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/mild-steel-pipe-angle-product.png",
     slug: "ms-angle"
   },
   {
@@ -866,7 +859,7 @@ export const productsData: Product[] = [
     description: "Comprehensive range of mild steel fittings for pipe connections",
     category: "M.S Pipes & Fittings",
     subcategory: "Fittings",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/mild-steel-fitting-elbow-product.png",
+    image: "/Images/MS PIPES AND FITTINGS/FITTINGS/mild-steel-fitting-elbow-product.png",
     slug: "ms-fittings",
     featured: true
   },
@@ -878,7 +871,7 @@ export const productsData: Product[] = [
     description: "Advanced multi jet water meter for hot and cold water measurement",
     category: "Water Meter",
     subcategory: "Multi Jet Magnetic Drive Hot & Cold Water Meter",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/1.-NBDMH.png",
+    image: "/Images/Water Meter/Multi Jet Water Meter/1.-NBDMH.png",
     slug: "multi-jet-magnetic-drive",
     featured: true
   },
@@ -888,7 +881,7 @@ export const productsData: Product[] = [
     description: "Compact single jet water meter for residential applications",
     category: "Water Meter",
     subcategory: "Single Jet Magnetic Drive",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Water-meter-single-jet-water-meter-nbsjm-15-1-product-1.png",
+    image: "/Images/Water Meter/Single Jet Water Meter/Water-meter-single-jet-water-meter-nbsjm-15-1-product-1.png",
     slug: "single-jet-magnetic-drive"
   },
   {
@@ -897,7 +890,7 @@ export const productsData: Product[] = [
     description: "High capacity horizontal Woltman water meter for large applications",
     category: "Water Meter",
     subcategory: "Horizontal Woltman Magnetic Drive",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Water-meter-horizontal-woltman-magnetic-drive-product-1.png",
+    image: "/Images/Water Meter/Horizontal/Water-meter-horizontal-woltman-magnetic-drive-product-1.png",
     slug: "horizontal-woltman-magnetic-drive"
   },
   {
@@ -906,7 +899,7 @@ export const productsData: Product[] = [
     description: "Intelligent electromagnetic flow meter for industrial applications",
     category: "Water Meter",
     subcategory: "Electro Magnetic Flow",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Water-meter-electro-magnetic-flow-product.png",
+    image: "/Images/Water Meter/Electro Magnetic/Water-meter-electro-magnetic-flow-product-1024x740-1.png",
     slug: "electro-magnetic-flow",
     featured: true
   },
@@ -916,7 +909,7 @@ export const productsData: Product[] = [
     description: "Automatic meter reading system for remote water monitoring",
     category: "Water Meter",
     subcategory: "AMR",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/Water-meter-amr-product-1.png",
+    image: "/Images/Water Meter/AMR/Water-meter-amr-product-1.png",
     slug: "amr"
   },
   {
@@ -925,7 +918,7 @@ export const productsData: Product[] = [
     description: "Non-contact ultrasonic water meter for high precision measurement",
     category: "Water Meter",
     subcategory: "Ultrasonic",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/water-meter-ultrasonic-product.png",
+    image: "/Images/Water Meter/Ultrosonic/water-meter-ultrasonic-product.png",
     slug: "ultrasonic"
   },
   // Gate Valve Products
@@ -935,7 +928,7 @@ export const productsData: Product[] = [
     description: "Resilient wedge gate valve with rising stem design for water applications",
     category: "Gate Valve",
     subcategory: "Rising Stern Seated",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gate-valve-rising-sterm-seated-product.png",
+    image: "/Images/DI CI VALVES/GATE VALVE/RISING STERM/gate-valve-rising-sterm-seated-product.png",
     slug: "rising-stern-seated"
   },
   {
@@ -944,7 +937,7 @@ export const productsData: Product[] = [
     description: "Gate valve with non-rising stem design for compact installation",
     category: "Gate Valve",
     subcategory: "Non Rising Stern Seated",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gate-valve-non-rising-sterm-seated-product.png",
+    image: "/Images/DI CI VALVES/GATE VALVE/NON RISING/gate-valve-non-rising-sterm-seated-product.png",
     slug: "non-rising-stern-seated"
   },
   {
@@ -953,7 +946,7 @@ export const productsData: Product[] = [
     description: "Metal seated gate valve for high temperature applications",
     category: "Gate Valve",
     subcategory: "Metal Seated",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gate-valve-metal-seated-product.png",
+    image: "/Images/DI CI VALVES/GATE VALVE/METAL SEATED/gate-valve-metal-seated-product.png",
     slug: "metal-seated"
   },
   {
@@ -962,7 +955,7 @@ export const productsData: Product[] = [
     description: "Gate valve with actuator for automated operation",
     category: "Gate Valve",
     subcategory: "Actuator Type",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gate-valve-acutuator-type-product.png",
+    image: "/Images/DI CI VALVES/GATE VALVE/ACTUATOR TYPE GATE VALVE/gate-valve-acutuator-type-product.png",
     slug: "actuator-type"
   },
   {
@@ -971,7 +964,7 @@ export const productsData: Product[] = [
     description: "Cast iron sluice valve for water distribution systems",
     category: "Gate Valve",
     subcategory: "CI Sluice Valve",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gate-valve-ci-sluice-valve-product-1.png",
+    image: "/Images/DI CI VALVES/GATE VALVE/CI SULICE VALVE/gate-valve-ci-sluice-valve-product-1.png",
     slug: "ci-sluice-valve"
   },
   // Check Valve Products
@@ -981,7 +974,7 @@ export const productsData: Product[] = [
     description: "Single wafer check valve for space-saving installation",
     category: "Check Valve",
     subcategory: "Single Wafer",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/check-valve-single-wafer-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/SINGLE WAFER/check-valve-single-wafer-product.png",
     slug: "single-wafer"
   },
   {
@@ -990,7 +983,7 @@ export const productsData: Product[] = [
     description: "Dual plate wafer check valve for low pressure drop",
     category: "Check Valve",
     subcategory: "Dual Plate Wafer",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/check-valve-dual-plate-wafer-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/DUAL PLATE CHECK VALVE/check-valve-dual-plate-wafer-product (1).png",
     slug: "dual-plate-wafer"
   },
   {
@@ -999,7 +992,7 @@ export const productsData: Product[] = [
     description: "Dual plate flanged check valve for high pressure applications",
     category: "Check Valve",
     subcategory: "Dual Plate Flanged",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/check-valve-dual-plate-flanged-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/DUAL PLATE FLANGEG/check-valve-dual-plate-flanged-product.png",
     slug: "dual-plate-flanged"
   },
   {
@@ -1008,7 +1001,7 @@ export const productsData: Product[] = [
     description: "Swing check valve for water distribution systems",
     category: "Check Valve",
     subcategory: "Swing",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/check-valve-swing-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/SWING/check-valve-swing-product.png",
     slug: "swing"
   },
   {
@@ -1017,7 +1010,7 @@ export const productsData: Product[] = [
     description: "Swing check valve with rubber disc for tight sealing",
     category: "Check Valve",
     subcategory: "Swing With Rubber Disc",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/check-valve-swing-check-valve-with-rubber-disc-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/SWING WITH RUBBER DISC/check-valve-swing-check-valve-with-rubber-disc-product.png",
     slug: "swing-with-rubber-disc"
   },
   {
@@ -1026,7 +1019,7 @@ export const productsData: Product[] = [
     description: "Ball check valve for low pressure applications",
     category: "Check Valve",
     subcategory: "Ball",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/check-valve-ball-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/BALL/check-valve-ball-product.png",
     slug: "ball"
   },
   {
@@ -1035,7 +1028,7 @@ export const productsData: Product[] = [
     description: "Non-return reflux valve for preventing reverse flow",
     category: "Check Valve",
     subcategory: "NRV Reflux Valve",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/check-valve-NRV-reflux-valve-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/NRV REFLUX VALVE/check-valve-NRV-reflux-valve-product.png",
     slug: "nrv-reflux-valve"
   },
   {
@@ -1044,7 +1037,7 @@ export const productsData: Product[] = [
     description: "Tilting disc check valve for large diameter applications",
     category: "Check Valve",
     subcategory: "Tilting Disc",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/check-valve-tilting-disc-product.png",
+    image: "/Images/DI CI VALVES/CHECK VALVE/TILTING DISC/check-valve-tilting-disc-product.png",
     slug: "tilting-disc"
   },
   // Control Valve Products
@@ -1053,7 +1046,7 @@ export const productsData: Product[] = [
     name: "Float Control Valve",
     description: "Float control valve for automatic water level control",
     category: "Float Control Valve",
-    image: "https://mercuryvalves.in/wp-content/uploads/2023/12/float-control-valve-product.png",
+    image: "/Images/DI CI VALVES/FLOAT CONTROL VALVE/float-control-valve-product.png",
     slug: "float-control-valve"
   },
   {
@@ -1061,7 +1054,7 @@ export const productsData: Product[] = [
     name: "Flow Control Valve",
     description: "Flow control valve for regulating flow rates",
     category: "Flow Control Valve",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/flow-control-valve-product.png",
+    image: "/Images/DI CI VALVES/FLOW CONTROL VALVE/flow-control-valve-product.png",
     slug: "flow-control-valve"
   },
   {
@@ -1069,7 +1062,7 @@ export const productsData: Product[] = [
     name: "Pressure Relief Valve",
     description: "Pressure relief valve for system safety and protection",
     category: "Pressure Relief Valve",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/pressure-relief-valve-product.png",
+    image: "/Images/DI CI VALVES/PRESSURE RELIEF VALVE/pressure-relief-valve-product.png",
     slug: "pressure-relief-valve"
   },
   {
@@ -1077,7 +1070,7 @@ export const productsData: Product[] = [
     name: "Pressure Reducing Valve",
     description: "Pressure reducing valve for pressure regulation",
     category: "Pressure Reducing Valve",
-    image: "https://mercuryvalves.in/wp-content/uploads/2024/02/pressure-reducing-valve-product.png",
+    image: "/Images/DI CI VALVES/PRESSURE REDUCING VALVE/pressure-reducing-valve-product.png",
     slug: "pressure-reducing-valve"
   }
 ];

@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link href="/">
               <img
-                src="https://mercuryvalves.in/wp-content/uploads/2023/07/Mercury-Logo.png"
+                src="/Images/Mercury-Logo.png"
                 alt="Mercury Valves Logo"
                 className="h-12 w-auto cursor-pointer"
               />

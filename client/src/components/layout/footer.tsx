@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="col-span-2">
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2023/07/Mercury-Logo.png"
+              src="/Images/Mercury-Logo.png"
               alt="Mercury Valves Logo"
               className="h-12 w-auto mb-4"
             />
