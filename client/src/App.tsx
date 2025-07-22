@@ -11,7 +11,6 @@ import ProductDetail from "@/pages/product-detail";
 import About from "@/pages/about";
 import Clients from "@/pages/clients";
 import Infrastructure from "@/pages/infrastructure";
-import RevathikaGroups from "@/pages/revathika-groups";
 import Contact from "@/pages/contact";
 import NotFound from "@/pages/not-found";
 

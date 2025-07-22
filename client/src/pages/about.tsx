@@ -7,7 +7,7 @@ const About = () => {
     <div className="min-h-screen bg-#0a2348 flex flex-col items-center justify-start py-8">
       <div className="w-full flex justify-center mb-12">
         <img
-          src="https://mercuryvalves.in/wp-content/uploads/2024/01/hdpe-pipe-and-fitting-hdpe-pipe.png"
+          src="Images/HDPE Pipes.png"
           alt="HDPE Pipe and Fitting"
           className="max-w-4xl w-full h-auto rounded-xl shadow-2xl"
         />

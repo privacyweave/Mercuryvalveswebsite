@@ -748,72 +748,7 @@ const productDetails: Record<string, ProductDetail> = {
       ]
     }
   },
-  "gun-metal-ball-valve": {
-    id: "gun-metal-ball-valve",
-    name: "Gun Metal Ball Valve",
-    category: "Gun Metal Valves & SS Valves",
-    mainImage: "https://mercuryvalves.in/wp-content/uploads/2024/01/gun-metal-valve-gun-metal-ball-valve-product.png",
-    specifications: {
-      size: "15mm to 100mm",
-      material: "Gun metal & Iron",
-      application: "Home"
-    },
-    technicalDrawings: [
-      "https://mercuryvalves.in/wp-content/uploads/2024/02/stainless-steel-valve-stainless-steel-ball-valve-draw.jpg"
-    ],
-    variants: [
-      {
-        name: "GM Gate Valve",
-        image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-gun-metal-gate-valve-product-3.png",
-        specifications: {
-          size: "15mm to 100mm",
-          material: "Gun metal & Iron",
-          application: "Home"
-        },
-        drawing: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-gun-metal-gate-valve-drawing-1.jpg"
-      },
-      {
-        name: "GM Globe Valve",
-        image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-gun-metal-globe-valve-product-2.png",
-        specifications: {
-          size: "15mm to 100mm",
-          material: "Gun metal & Iron",
-          application: "Home"
-        },
-        drawing: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-gun-metal-globe-valve-drawing.jpg"
-      },
-      {
-        name: "Pressure Reducing Check Valve",
-        image: "https://mercuryvalves.in/wp-content/uploads/2024/02/image-2.png",
-        specifications: {
-          size: "15mm to 100mm",
-          material: "Gun metal & Iron",
-          application: "Home"
-        },
-        drawing: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-pressure-reducing-valve-drawing.jpg"
-      },
-      {
-        name: "Horizontal Check Valve",
-        image: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-horizontal-check-valve-product.png",
-        specifications: {
-          size: "15mm to 100mm",
-          material: "Gun metal & Iron",
-          application: "Home"
-        },
-        drawing: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-horizontal-check-valve-drawing-1.jpg"
-      },
-      {
-        name: "Vertical Check Valve",
-        image: "https://mercuryvalves.in/wp-content/uploads/2024/02/image-3.png",
-        specifications: {
-          size: "15mm to 100mm",
-          material: "Gun metal & Iron",
-          application: "Home"
-        },
-        drawing: "https://mercuryvalves.in/wp-content/uploads/2024/02/gun-metal-valve-vertical-check-valve-drawing-1.jpg"
-      }
-    ]
-  },
+  
   "gm-ball-valve": {
     id: "gm-ball-valve",
     name: "GM Ball Valve",
