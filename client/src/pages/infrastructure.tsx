@@ -41,22 +41,22 @@ const Infrastructure = () => {
           </div>
           <div className="flex flex-col items-center gap-12">
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7421.jpg"
+              src="\Images\IMG_7421.png"
               alt="HDPE Manufacturing Process 1"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7428.jpg"
+              src="\Images\IMG_7428.png"
               alt="HDPE Manufacturing Process 2"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7430.jpg"
+              src="\Images\IMG_7430.png"
               alt="HDPE Manufacturing Process 3"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7434.jpg"
+              src="\Images\IMG_7434.png"
               alt="HDPE Manufacturing Process 4"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
@@ -72,17 +72,17 @@ const Infrastructure = () => {
           </div>
           <div className="flex flex-col items-center gap-12">
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7432.jpg"
+              src="\Images\IMG_7432.png"
               alt="Ductile Iron Manufacturing Process 1"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7438.jpg"
+              src="\Images\IMG_7438.png"
               alt="Ductile Iron Manufacturing Process 2"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
             <img
-              src="https://mercuryvalves.in/wp-content/uploads/2024/06/IMG_7487.jpg"
+              src="\Images\IMG_7487.png"
               alt="Ductile Iron Manufacturing Process 3"
               className="rounded-lg shadow-lg max-w-3xl w-full h-[28rem] object-cover"
             />
