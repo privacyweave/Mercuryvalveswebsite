@@ -71,7 +71,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="text-mercury-orange hover:text-orange-400 transition-colors"
             >
-              Privacy weave.in
+              Privacyweave.in
             </a>
           </p>
         </div>
