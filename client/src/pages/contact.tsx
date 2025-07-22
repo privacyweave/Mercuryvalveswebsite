@@ -212,8 +212,18 @@ const Contact = () => {
           <div className="flex flex-col md:flex-row justify-between items-center mt-8 w-full text-white">
             <div className="text-lg font-bold mb-2 md:mb-0">A.N.D Valves and Castings Pvt. Ltd.</div>
             <div className="text-sm">© 2024 A.N.D Valves & Casting India Pvt. Ltd. All Right Reserved</div>
-            <div className="text-sm md:text-right">Brand Management: <span className="text-mercury-orange">Privacy weave</span></div>
-          </div>
+            <div className="text-sm md:text-right">
+              Brand Management:{" "}
+              <a
+                href="https://www.privacyweave.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-mercury-orange hover:text-mercury-red"
+              >
+                Privacyweave
+              </a>
+            </div>          
+            </div>
         </div>
       </section>
     </div>
