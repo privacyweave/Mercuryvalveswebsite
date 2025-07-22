@@ -14,7 +14,10 @@ const Navbar = () => {
   const isActive = (path: string) => location === path;
 
   return (
-    <nav className="bg-#0a2348 text-white shadow-lg sticky top-0 z-50">
+    <nav
+      className="text-white shadow-lg fixed top-0 left-0 w-full z-50"
+      style={{ backgroundColor: "#0a2348" }}
+    >
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
